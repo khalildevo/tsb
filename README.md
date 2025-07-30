@@ -40,8 +40,6 @@ For questions, suggestions, or support, please reach out through our website con
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
-
-```markdown
 - [Acqua Di Parma](https://thescentbase.com/perfumes/acqua-di-parma)
 - [Afnan](https://thescentbase.com/perfumes/afnan)
 - [Al Haramain Perfumes](https://thescentbase.com/perfumes/al-haramain-perfumes)
